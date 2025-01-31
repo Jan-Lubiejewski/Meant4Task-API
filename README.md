@@ -2,7 +2,7 @@
 Tests written for website [restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-CreateBooking) using:
 - **Python v. "3.9.1"**
 - **Pytest v. "8.3.4"**
-- **Pytest-bdd v. "3.9.74"**
+- **Requests v. "2.32.3"**
 
 ## Overiew
 The API test are written for CreateBooking endpoint:
